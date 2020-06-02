@@ -3,4 +3,4 @@ Håll Sverige igång is an event where developers offer their services to compan
 
 Here is a link to a video demonstration of the application.
 
-[![Link to demonstrations](image/nedladdning.png)](https://www.youtube.com/watch?v=9rORnvH1q2E&feature=youtu.be)
+[![Link to demonstrations](https://raw.githubusercontent.com/RobinRibaric/Care-to-translate-learning-application/master/CTT-Education-master/image/nedladdning.png)](https://www.youtube.com/watch?v=9rORnvH1q2E&feature=youtu.be)
