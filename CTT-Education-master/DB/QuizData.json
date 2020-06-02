@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "missingWordIndex": 8,
+      "phrase": "Har du befunnit dig i en stad där ______________har haft eller har ett pågående utbrott? ",
+      "pickedWord": "Corona-viruset"
+    },
+    {
+      "missingWordIndex": 12,
+      "phrase": "Vissa grupper av personer är extra sårbara för viruset. Dessa kallas för ___________",
+      "pickedWord": "riskgrupper"
+    },
+    {
+      "missingWordIndex": 11,
+      "phrase": "Du kommer att behöva isoleras eftersom du har blivit infekterad av ______________",
+      "pickedWord": "Corona-viruset"
+    },
+    {
+      "missingWordIndex": 14,
+      "phrase": "De flesta som blir sjuka är sjuka i ungefär två veckor. De som blir __________sjuka kan vara sjuka i upp till sex veckor innan de blir friska ",
+      "pickedWord": "allvarligt"
+    },
+    {
+      "missingWordIndex": 5,
+      "phrase": "Du ska i första hand ________vården genom telefon ",
+      "pickedWord": "kontakta"
+    }
+  ],
+
+  [
+    {
+      "missingWordIndex": 10,
+      "phrase": "Det är viktigt att du undviker fysisk kontakt med andra _________",
+      "pickedWord": "människor"
+    },
+    {
+      "missingWordIndex": 2,
+      "phrase": "Om dina ________________inte har några symptom behöver de inte stanna hemma ",
+      "pickedWord": "familjemedlemmar"
+    },
+    {
+      "missingWordIndex": 15,
+      "phrase": "Viruset kan också smitta genom saker man tar på med händerna, som t.ex. dörrhandtag och ____________",
+      "pickedWord": "strömbrytare"
+    },
+    {
+      "missingWordIndex": 4,
+      "phrase": "Hosta och nys i _________",
+      "pickedWord": "armvecket"
+    },
+    {
+      "missingWordIndex": 7,
+      "phrase": "Vi vet inte om man kan få _________flera gånger ",
+      "pickedWord": "sjukdomen"
+    }
+  ]
+]
